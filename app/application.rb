@@ -30,7 +30,7 @@ class Application
   end
 
   def cart(/cart/)
-    
-  end 
+
+  end
 
 end
