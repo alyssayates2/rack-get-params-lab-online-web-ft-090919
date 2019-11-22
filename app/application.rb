@@ -30,7 +30,7 @@ class Application
   end
 
   def cart
-    if @@cart == empty?
+    if @@cart.any? == false
       "Your cart is empty"
     end
   end
