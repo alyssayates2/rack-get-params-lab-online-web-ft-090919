@@ -29,7 +29,7 @@ class Application
     end
   end
 
-  def cart
+  def cart(/cart)
     if @@cart == empty
       "Your cart is empty"
     end
