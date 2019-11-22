@@ -32,7 +32,7 @@ class Application
   def cart
     if empty
       "Your cart is empty"
-    end 
+    end
   end
 
 end
